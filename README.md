@@ -65,3 +65,9 @@ Below steps are performed for identifying best machine learning algorithm:
 Split training data into train and validation using time series split. For this. First 90% rows are considered as train dataset and rest dataset considered as validation dataset.
 Separate Features and target for both train and validation dataset.
 Identify best machine learning algorithm from below set and perform hyperparameter tuning of best model.
+
+
+
+
+
+JOBATHON-Aug2022 (Rank-41 /8235 - Public Leaderboard ,98 th - Private Leaderboard)
